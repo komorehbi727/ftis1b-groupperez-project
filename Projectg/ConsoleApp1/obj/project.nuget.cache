@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LY6eY4HJw2k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\konra\\OneDrive\\Documents\\SCHOOL\\ISPRGG2\\Projectg\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\konra\\.nuget\\packages\\system.io.pipelines\\9.0.3\\system.io.pipelines.9.0.3.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\system.text.encodings.web\\9.0.3\\system.text.encodings.web.9.0.3.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\system.text.json\\9.0.3\\system.text.json.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

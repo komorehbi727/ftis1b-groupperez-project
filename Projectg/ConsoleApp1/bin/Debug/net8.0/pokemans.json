@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Charmander",
+    "Level": 14,
+    "IsAvailable": true
+  },
+  {
+    "Name": "Ghastly",
+    "Level": 17,
+    "IsAvailable": true
+  },
+  {
+    "Name": "Arceus",
+    "Level": 100,
+    "IsAvailable": true
+  }
+]
